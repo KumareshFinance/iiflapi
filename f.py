@@ -1,6 +1,6 @@
 from IIFLapis import IIFLClient
 
-client = IIFLClient(client_code="56839266", passwd="Heyiifl@4", dob="19990904", email_id="ravikumaresh7766@gmail.com",contact_number="8667810144")
+client = IIFLClient(client_code="56839266", passwd="He4", dob="194", email_id="ravim",contact_number="84")
 client.client_login() #For Customer Login
 
 #NOTE : Symbol has to be in the same format as specified in the example below.
